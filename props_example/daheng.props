@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets" />
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+	<!-- 请把DahengRoot属性的值替换为你的OpenCV编译输出的目标目录，它包含x64、x86这样的子目录 -->
+    <DahengRoot>E:\vs_workspace\prj1363_camare_module\prj1363_camare_module\3rdParty\windows\daheng\VC SDK</DahengRoot>
+	
+	<!-- 指定INCLUDE路径-->
+    <IncludePath>$(DahengRoot)\inc;$(IncludePath)</IncludePath>
+	
+	<!-- 指定链接所需lib目录-->
+	<LibraryPath Condition="'$(Platform)'=='X64'">$(DahengRoot)\lib\x64;$(LibraryPath)</LibraryPath>
+
+  </PropertyGroup>
+  
+  <!-- 以下是程序需要加载的lib文件。-->
+  <ItemDefinitionGroup>
+	<Link>
+		<AdditionalDependencies>GxIAPI.lib;DxImageProc.lib;%(AdditionalDependencies)</AdditionalDependencies>
+	</Link>
+	
+  </ItemDefinitionGroup>
+  <ItemGroup />
+</Project>

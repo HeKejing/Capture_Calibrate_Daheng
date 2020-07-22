@@ -65,7 +65,8 @@ void callback_single()
 	isCapturingFinish = true;
 }
 
-int main()
+//int main()      int main_calib()
+int main_calib()
 {
     //Calibration Prepare
     vector<cv::Point2f> corners_L, corners_R;
@@ -76,7 +77,7 @@ int main()
     string calib_message;
     Mat greenAreaLeft, greenAreaRight;
 
-    KJCalibration KJcalib(11, 8, 15); // calib checkboard - corner number and size
+    KJCalibration KJcalib(11, 8, 20); // calib checkboard - corner number and size
 
     KJcalib.setPositionNums(POS_NUM_all); // calib image number
 
@@ -100,7 +101,7 @@ int main()
         return -1;
     }
 	camera.setExposureTime2D(3000);
-	camera.setExposureTime3D(20000);
+	camera.setExposureTime3D(250000);
 
 	camera.registerCallBackProcess(callback_single);
     camera.setPatternsNum(1);
@@ -296,4 +297,59 @@ int main()
 	cout << "Success!" << endl;
 	system("pause");
 	return 0;
+}
+
+//int main()  int main_save
+int main()
+{
+    int Num_image = 50;
+    if (SE_STATUS_SUCCESS != camera.init())
+    {
+        system("pause");
+        return -1;
+    }
+    camera.setExposureTime2D(3000);
+    camera.setExposureTime3D(36500);//3->40000  4-> 80000  (6 ->1 ms/pulse-> 25000 inside)
+
+    camera.registerCallBackProcess(callback_single);
+    camera.setPatternsNum(Num_image);
+    camera.setCapture3DModelFinishFlag(false);
+    camera.setTriggerSource(3);
+
+    cout << camera.getSensorWidth() << endl;
+    cout << camera.getSensorHeight() << endl;
+
+
+    if (SE_STATUS_SUCCESS != camera.start(true))
+    {
+        std::cout << "camera.start() failed" << endl;
+        return -1;
+    }
+
+    while (false == isCapturingFinish)
+    {
+        waitKey(5);
+        //cout << "not finish" << endl;
+    }
+    std::vector<cv::Mat> leftImages, rightImages;
+    camera.processCaptureImages(leftImages, rightImages);
+    cout << "success1" << endl;
+
+    string left_path = "G:\\Phd_Research\\2020\\20200722\\test1\\left\\";
+    string right_path = "G:\\Phd_Research\\2020\\20200722\\test1\\right\\";
+
+    for (int i = 0; i < Num_image ; i++)
+    {
+        imwrite(left_path + to_string(i + 1) + ".bmp",  leftImages[i]);
+        imwrite(right_path + to_string(i + 1) + ".bmp", rightImages[i]);
+    }
+    waitKey(20);
+
+    isCapturingFinish = false;
+    camera.setCapture3DModelFinishFlag(false);
+    camera.clearImages();
+
+    cout << "Success!" << endl;
+    system("pause");
+    return 0;
 }

@@ -9,8 +9,8 @@ The output was:
 Microsoft (R) Éú³ÉÒýÇæ°æ±¾ 14.0.25420.1
 °æÈ¨ËùÓÐ(C) Microsoft Corporation¡£±£ÁôËùÓÐÈ¨Àû¡£
 
-Éú³ÉÆô¶¯Ê±¼äÎª 2020/1/2 18:06:30¡£
-½Úµã 1 ÉÏµÄÏîÄ¿¡°C:\Users\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\CMakeFiles\3.14.4\CompilerIdC\CompilerIdC.vcxproj¡±(Ä¬ÈÏÄ¿±ê)¡£
+Éú³ÉÆô¶¯Ê±¼äÎª 2020/7/15 10:17:09¡£
+½Úµã 1 ÉÏµÄÏîÄ¿¡°C:\Users\Administrator\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\CMakeFiles\3.14.4\CompilerIdC\CompilerIdC.vcxproj¡±(Ä¬ÈÏÄ¿±ê)¡£
 PrepareForBuild:
   ÕýÔÚ´´½¨Ä¿Â¼¡°Debug\¡±¡£
   ÕýÔÚ´´½¨Ä¿Â¼¡°Debug\CompilerIdC.tlog\¡±¡£
@@ -21,7 +21,7 @@ ClCompile:
   CMakeCCompilerId.c
 Link:
   E:\VS2015\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X64 Debug\CMakeCCompilerId.obj
-  CompilerIdC.vcxproj -> C:\Users\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\CMakeFiles\3.14.4\CompilerIdC\.\CompilerIdC.exe
+  CompilerIdC.vcxproj -> C:\Users\Administrator\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\CMakeFiles\3.14.4\CompilerIdC\.\CompilerIdC.exe
 PostBuildEvent:
   for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
   :VCEnd
@@ -29,20 +29,20 @@ PostBuildEvent:
 FinalizeBuildStatus:
   ÕýÔÚÉ¾³ýÎÄ¼þ¡°Debug\CompilerIdC.tlog\unsuccessfulbuild¡±¡£
   ÕýÔÚ¶Ô¡°Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate¡±Ö´ÐÐ Touch ÈÎÎñ¡£
-ÒÑÍê³ÉÉú³ÉÏîÄ¿¡°C:\Users\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\CMakeFiles\3.14.4\CompilerIdC\CompilerIdC.vcxproj¡±(Ä¬ÈÏÄ¿±ê)µÄ²Ù×÷¡£
+ÒÑÍê³ÉÉú³ÉÏîÄ¿¡°C:\Users\Administrator\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\CMakeFiles\3.14.4\CompilerIdC\CompilerIdC.vcxproj¡±(Ä¬ÈÏÄ¿±ê)µÄ²Ù×÷¡£
 
 ÒÑ³É¹¦Éú³É¡£
     0 ¸ö¾¯¸æ
     0 ¸ö´íÎó
 
-ÒÑÓÃÊ±¼ä 00:00:03.92
+ÒÑÓÃÊ±¼ä 00:00:05.98
 
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
 
-The C compiler identification is MSVC, found in "C:/Users/31401/Desktop/code_shiny/Daheng_dualcalib/samples/build/CMakeFiles/3.14.4/CompilerIdC/CompilerIdC.exe"
+The C compiler identification is MSVC, found in "C:/Users/Administrator/31401/Desktop/code_shiny/Daheng_dualcalib/samples/build/CMakeFiles/3.14.4/CompilerIdC/CompilerIdC.exe"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler:  
@@ -54,8 +54,8 @@ The output was:
 Microsoft (R) Éú³ÉÒýÇæ°æ±¾ 14.0.25420.1
 °æÈ¨ËùÓÐ(C) Microsoft Corporation¡£±£ÁôËùÓÐÈ¨Àû¡£
 
-Éú³ÉÆô¶¯Ê±¼äÎª 2020/1/2 18:06:34¡£
-½Úµã 1 ÉÏµÄÏîÄ¿¡°C:\Users\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\CMakeFiles\3.14.4\CompilerIdCXX\CompilerIdCXX.vcxproj¡±(Ä¬ÈÏÄ¿±ê)¡£
+Éú³ÉÆô¶¯Ê±¼äÎª 2020/7/15 10:17:16¡£
+½Úµã 1 ÉÏµÄÏîÄ¿¡°C:\Users\Administrator\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\CMakeFiles\3.14.4\CompilerIdCXX\CompilerIdCXX.vcxproj¡±(Ä¬ÈÏÄ¿±ê)¡£
 PrepareForBuild:
   ÕýÔÚ´´½¨Ä¿Â¼¡°Debug\¡±¡£
   ÕýÔÚ´´½¨Ä¿Â¼¡°Debug\CompilerIdCXX.tlog\¡±¡£
@@ -66,7 +66,7 @@ ClCompile:
   CMakeCXXCompilerId.cpp
 Link:
   E:\VS2015\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X64 Debug\CMakeCXXCompilerId.obj
-  CompilerIdCXX.vcxproj -> C:\Users\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\CMakeFiles\3.14.4\CompilerIdCXX\.\CompilerIdCXX.exe
+  CompilerIdCXX.vcxproj -> C:\Users\Administrator\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\CMakeFiles\3.14.4\CompilerIdCXX\.\CompilerIdCXX.exe
 PostBuildEvent:
   for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
   :VCEnd
@@ -74,127 +74,127 @@ PostBuildEvent:
 FinalizeBuildStatus:
   ÕýÔÚÉ¾³ýÎÄ¼þ¡°Debug\CompilerIdCXX.tlog\unsuccessfulbuild¡±¡£
   ÕýÔÚ¶Ô¡°Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate¡±Ö´ÐÐ Touch ÈÎÎñ¡£
-ÒÑÍê³ÉÉú³ÉÏîÄ¿¡°C:\Users\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\CMakeFiles\3.14.4\CompilerIdCXX\CompilerIdCXX.vcxproj¡±(Ä¬ÈÏÄ¿±ê)µÄ²Ù×÷¡£
+ÒÑÍê³ÉÉú³ÉÏîÄ¿¡°C:\Users\Administrator\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\CMakeFiles\3.14.4\CompilerIdCXX\CompilerIdCXX.vcxproj¡±(Ä¬ÈÏÄ¿±ê)µÄ²Ù×÷¡£
 
 ÒÑ³É¹¦Éú³É¡£
     0 ¸ö¾¯¸æ
     0 ¸ö´íÎó
 
-ÒÑÓÃÊ±¼ä 00:00:02.68
+ÒÑÓÃÊ±¼ä 00:00:02.62
 
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
 
-The CXX compiler identification is MSVC, found in "C:/Users/31401/Desktop/code_shiny/Daheng_dualcalib/samples/build/CMakeFiles/3.14.4/CompilerIdCXX/CompilerIdCXX.exe"
+The CXX compiler identification is MSVC, found in "C:/Users/Administrator/31401/Desktop/code_shiny/Daheng_dualcalib/samples/build/CMakeFiles/3.14.4/CompilerIdCXX/CompilerIdCXX.exe"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: C:/Users/31401/Desktop/code_shiny/Daheng_dualcalib/samples/build/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/Administrator/31401/Desktop/code_shiny/Daheng_dualcalib/samples/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe cmTC_9e673.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=14.0 /v:m 
+Run Build Command(s):C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe cmTC_a7df8.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=14.0 /v:m 
 Microsoft (R) ç”Ÿæˆå¼•æ“Žç‰ˆæœ¬ 14.0.25420.1
 ç‰ˆæƒæ‰€æœ‰(C) Microsoft Corporationã€‚ä¿ç•™æ‰€æœ‰æƒåˆ©ã€‚
 
   ç”¨äºŽ x64 çš„ Microsoft (R) C/C++ ä¼˜åŒ–ç¼–è¯‘å™¨ 19.00.24215.1 ç‰ˆ
   ç‰ˆæƒæ‰€æœ‰(C) Microsoft Corporationã€‚ä¿ç•™æ‰€æœ‰æƒåˆ©ã€‚
   
-  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9e673.dir\Debug\\" /Fd"cmTC_9e673.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue C:\Users\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\CMakeFiles\CMakeTmp\testCCompiler.c
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a7df8.dir\Debug\\" /Fd"cmTC_a7df8.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue C:\Users\Administrator\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\CMakeFiles\CMakeTmp\testCCompiler.c
   
   testCCompiler.c
-  cmTC_9e673.vcxproj -> C:\Users\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\CMakeFiles\CMakeTmp\Debug\cmTC_9e673.exe
-  cmTC_9e673.vcxproj -> C:/Users/31401/Desktop/code_shiny/Daheng_dualcalib/samples/build/CMakeFiles/CMakeTmp/Debug/cmTC_9e673.pdb (Full PDB)
+  cmTC_a7df8.vcxproj -> C:\Users\Administrator\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\CMakeFiles\CMakeTmp\Debug\cmTC_a7df8.exe
+  cmTC_a7df8.vcxproj -> C:/Users/Administrator/31401/Desktop/code_shiny/Daheng_dualcalib/samples/build/CMakeFiles/CMakeTmp/Debug/cmTC_a7df8.pdb (Full PDB)
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: C:/Users/31401/Desktop/code_shiny/Daheng_dualcalib/samples/build/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/Administrator/31401/Desktop/code_shiny/Daheng_dualcalib/samples/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe cmTC_a3b8b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=14.0 /v:m 
+Run Build Command(s):C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe cmTC_319f8.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=14.0 /v:m 
 Microsoft (R) ç”Ÿæˆå¼•æ“Žç‰ˆæœ¬ 14.0.25420.1
 ç‰ˆæƒæ‰€æœ‰(C) Microsoft Corporationã€‚ä¿ç•™æ‰€æœ‰æƒåˆ©ã€‚
 
   ç”¨äºŽ x64 çš„ Microsoft (R) C/C++ ä¼˜åŒ–ç¼–è¯‘å™¨ 19.00.24215.1 ç‰ˆ
   ç‰ˆæƒæ‰€æœ‰(C) Microsoft Corporationã€‚ä¿ç•™æ‰€æœ‰æƒåˆ©ã€‚
   
-  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a3b8b.dir\Debug\\" /Fd"cmTC_a3b8b.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "E:\cmake\cmake-3.14.4-win64-x64\share\cmake-3.14\Modules\CMakeCCompilerABI.c"
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_319f8.dir\Debug\\" /Fd"cmTC_319f8.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "E:\cmake\cmake-3.14.4-win64-x64\share\cmake-3.14\Modules\CMakeCCompilerABI.c"
   
   CMakeCCompilerABI.c
-  cmTC_a3b8b.vcxproj -> C:\Users\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\CMakeFiles\CMakeTmp\Debug\cmTC_a3b8b.exe
-  cmTC_a3b8b.vcxproj -> C:/Users/31401/Desktop/code_shiny/Daheng_dualcalib/samples/build/CMakeFiles/CMakeTmp/Debug/cmTC_a3b8b.pdb (Full PDB)
+  cmTC_319f8.vcxproj -> C:\Users\Administrator\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\CMakeFiles\CMakeTmp\Debug\cmTC_319f8.exe
+  cmTC_319f8.vcxproj -> C:/Users/Administrator/31401/Desktop/code_shiny/Daheng_dualcalib/samples/build/CMakeFiles/CMakeTmp/Debug/cmTC_319f8.pdb (Full PDB)
 
 
 
 
 Detecting C [] compiler features compiled with the following output:
-Change Dir: C:/Users/31401/Desktop/code_shiny/Daheng_dualcalib/samples/build/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/Administrator/31401/Desktop/code_shiny/Daheng_dualcalib/samples/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe cmTC_2e887.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=14.0 /v:m 
+Run Build Command(s):C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe cmTC_4d49b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=14.0 /v:m 
 Microsoft (R) ç”Ÿæˆå¼•æ“Žç‰ˆæœ¬ 14.0.25420.1
 ç‰ˆæƒæ‰€æœ‰(C) Microsoft Corporationã€‚ä¿ç•™æ‰€æœ‰æƒåˆ©ã€‚
 
   ç”¨äºŽ x64 çš„ Microsoft (R) C/C++ ä¼˜åŒ–ç¼–è¯‘å™¨ 19.00.24215.1 ç‰ˆ
   ç‰ˆæƒæ‰€æœ‰(C) Microsoft Corporationã€‚ä¿ç•™æ‰€æœ‰æƒåˆ©ã€‚
   
-  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2e887.dir\Debug\\" /Fd"cmTC_2e887.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue C:\Users\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\CMakeFiles\feature_tests.c
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_4d49b.dir\Debug\\" /Fd"cmTC_4d49b.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue C:\Users\Administrator\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\CMakeFiles\feature_tests.c
   
   feature_tests.c
-  cmTC_2e887.vcxproj -> C:\Users\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\CMakeFiles\CMakeTmp\Debug\cmTC_2e887.exe
-  cmTC_2e887.vcxproj -> C:/Users/31401/Desktop/code_shiny/Daheng_dualcalib/samples/build/CMakeFiles/CMakeTmp/Debug/cmTC_2e887.pdb (Full PDB)
+  cmTC_4d49b.vcxproj -> C:\Users\Administrator\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\CMakeFiles\CMakeTmp\Debug\cmTC_4d49b.exe
+  cmTC_4d49b.vcxproj -> C:/Users/Administrator/31401/Desktop/code_shiny/Daheng_dualcalib/samples/build/CMakeFiles/CMakeTmp/Debug/cmTC_4d49b.pdb (Full PDB)
 
 
     Feature record: C_FEATURE:1c_function_prototypes
     Feature record: C_FEATURE:1c_variadic_macros
 Determining if the CXX compiler works passed with the following output:
-Change Dir: C:/Users/31401/Desktop/code_shiny/Daheng_dualcalib/samples/build/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/Administrator/31401/Desktop/code_shiny/Daheng_dualcalib/samples/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe cmTC_c7d65.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=14.0 /v:m 
+Run Build Command(s):C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe cmTC_d0dcd.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=14.0 /v:m 
 Microsoft (R) ç”Ÿæˆå¼•æ“Žç‰ˆæœ¬ 14.0.25420.1
 ç‰ˆæƒæ‰€æœ‰(C) Microsoft Corporationã€‚ä¿ç•™æ‰€æœ‰æƒåˆ©ã€‚
 
   ç”¨äºŽ x64 çš„ Microsoft (R) C/C++ ä¼˜åŒ–ç¼–è¯‘å™¨ 19.00.24215.1 ç‰ˆ
   ç‰ˆæƒæ‰€æœ‰(C) Microsoft Corporationã€‚ä¿ç•™æ‰€æœ‰æƒåˆ©ã€‚
   
-  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_c7d65.dir\Debug\\" /Fd"cmTC_c7d65.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue C:\Users\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_d0dcd.dir\Debug\\" /Fd"cmTC_d0dcd.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue C:\Users\Administrator\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
   
   testCXXCompiler.cxx
-  cmTC_c7d65.vcxproj -> C:\Users\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\CMakeFiles\CMakeTmp\Debug\cmTC_c7d65.exe
-  cmTC_c7d65.vcxproj -> C:/Users/31401/Desktop/code_shiny/Daheng_dualcalib/samples/build/CMakeFiles/CMakeTmp/Debug/cmTC_c7d65.pdb (Full PDB)
+  cmTC_d0dcd.vcxproj -> C:\Users\Administrator\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\CMakeFiles\CMakeTmp\Debug\cmTC_d0dcd.exe
+  cmTC_d0dcd.vcxproj -> C:/Users/Administrator/31401/Desktop/code_shiny/Daheng_dualcalib/samples/build/CMakeFiles/CMakeTmp/Debug/cmTC_d0dcd.pdb (Full PDB)
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: C:/Users/31401/Desktop/code_shiny/Daheng_dualcalib/samples/build/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/Administrator/31401/Desktop/code_shiny/Daheng_dualcalib/samples/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe cmTC_a50a5.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=14.0 /v:m 
+Run Build Command(s):C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe cmTC_112d3.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=14.0 /v:m 
 Microsoft (R) ç”Ÿæˆå¼•æ“Žç‰ˆæœ¬ 14.0.25420.1
 ç‰ˆæƒæ‰€æœ‰(C) Microsoft Corporationã€‚ä¿ç•™æ‰€æœ‰æƒåˆ©ã€‚
 
   ç”¨äºŽ x64 çš„ Microsoft (R) C/C++ ä¼˜åŒ–ç¼–è¯‘å™¨ 19.00.24215.1 ç‰ˆ
   ç‰ˆæƒæ‰€æœ‰(C) Microsoft Corporationã€‚ä¿ç•™æ‰€æœ‰æƒåˆ©ã€‚
   
-  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_a50a5.dir\Debug\\" /Fd"cmTC_a50a5.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue "E:\cmake\cmake-3.14.4-win64-x64\share\cmake-3.14\Modules\CMakeCXXCompilerABI.cpp"
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_112d3.dir\Debug\\" /Fd"cmTC_112d3.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue "E:\cmake\cmake-3.14.4-win64-x64\share\cmake-3.14\Modules\CMakeCXXCompilerABI.cpp"
   
   CMakeCXXCompilerABI.cpp
-  cmTC_a50a5.vcxproj -> C:\Users\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\CMakeFiles\CMakeTmp\Debug\cmTC_a50a5.exe
-  cmTC_a50a5.vcxproj -> C:/Users/31401/Desktop/code_shiny/Daheng_dualcalib/samples/build/CMakeFiles/CMakeTmp/Debug/cmTC_a50a5.pdb (Full PDB)
+  cmTC_112d3.vcxproj -> C:\Users\Administrator\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\CMakeFiles\CMakeTmp\Debug\cmTC_112d3.exe
+  cmTC_112d3.vcxproj -> C:/Users/Administrator/31401/Desktop/code_shiny/Daheng_dualcalib/samples/build/CMakeFiles/CMakeTmp/Debug/cmTC_112d3.pdb (Full PDB)
 
 
 
 
 Detecting CXX [] compiler features compiled with the following output:
-Change Dir: C:/Users/31401/Desktop/code_shiny/Daheng_dualcalib/samples/build/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/Administrator/31401/Desktop/code_shiny/Daheng_dualcalib/samples/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe cmTC_0c9d0.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=14.0 /v:m 
+Run Build Command(s):C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe cmTC_fa768.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=14.0 /v:m 
 Microsoft (R) ç”Ÿæˆå¼•æ“Žç‰ˆæœ¬ 14.0.25420.1
 ç‰ˆæƒæ‰€æœ‰(C) Microsoft Corporationã€‚ä¿ç•™æ‰€æœ‰æƒåˆ©ã€‚
 
   ç”¨äºŽ x64 çš„ Microsoft (R) C/C++ ä¼˜åŒ–ç¼–è¯‘å™¨ 19.00.24215.1 ç‰ˆ
   ç‰ˆæƒæ‰€æœ‰(C) Microsoft Corporationã€‚ä¿ç•™æ‰€æœ‰æƒåˆ©ã€‚
   
-  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_0c9d0.dir\Debug\\" /Fd"cmTC_0c9d0.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue C:\Users\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\CMakeFiles\feature_tests.cxx
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_fa768.dir\Debug\\" /Fd"cmTC_fa768.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue C:\Users\Administrator\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\CMakeFiles\feature_tests.cxx
   
   feature_tests.cxx
-  cmTC_0c9d0.vcxproj -> C:\Users\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\CMakeFiles\CMakeTmp\Debug\cmTC_0c9d0.exe
-  cmTC_0c9d0.vcxproj -> C:/Users/31401/Desktop/code_shiny/Daheng_dualcalib/samples/build/CMakeFiles/CMakeTmp/Debug/cmTC_0c9d0.pdb (Full PDB)
+  cmTC_fa768.vcxproj -> C:\Users\Administrator\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\CMakeFiles\CMakeTmp\Debug\cmTC_fa768.exe
+  cmTC_fa768.vcxproj -> C:/Users/Administrator/31401/Desktop/code_shiny/Daheng_dualcalib/samples/build/CMakeFiles/CMakeTmp/Debug/cmTC_fa768.pdb (Full PDB)
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers

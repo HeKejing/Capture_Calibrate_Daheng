@@ -3,7 +3,7 @@ E:\OpenCV\opencv320_VS2015\opencv\build\include\opencv2/core/mat.hpp(2586): warn
 E:\OpenCV\opencv320_VS2015\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
 E:\OpenCV\opencv320_VS2015\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
 E:\OpenCV\opencv320_VS2015\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-c:\users\31401\desktop\code_shiny\daheng_dualcalib\CameraDevice.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\administrator\31401\desktop\code_shiny\daheng_dualcalib\CameraDevice.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
 e:\opencv\opencv320_vs2015\opencv\build\include\opencv2\flann\result_set.h(306): warning C4003: “max”宏的实参不足
 e:\opencv\opencv320_vs2015\opencv\build\include\opencv2\flann\result_set.h(428): warning C4003: “max”宏的实参不足
 e:\opencv\opencv320_vs2015\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
@@ -11,5 +11,5 @@ e:\opencv\opencv320_vs2015\opencv\build\include\opencv2\flann\logger.h(66): warn
 e:\opencv\opencv320_vs2015\opencv\build\include\opencv2\flann\lsh_index.h(203): warning C4003: “max”宏的实参不足
 e:\opencv\opencv320_vs2015\opencv\build\include\opencv2\flann\lsh_index.h(269): warning C4003: “max”宏的实参不足
 E:\OpenCV\opencv320_VS2015\opencv\build\include\opencv2/imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-C:\Users\31401\Desktop\code_shiny\Daheng_dualcalib\samples\main.cpp(268): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-  DualCalib_Camera.vcxproj -> C:\Users\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\Release\DualCalib_Camera.exe
+C:\Users\Administrator\31401\Desktop\code_shiny\Daheng_dualcalib\samples\main.cpp(269): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  DualCalib_Camera.vcxproj -> C:\Users\Administrator\31401\Desktop\code_shiny\Daheng_dualcalib\samples\build\Release\DualCalib_Camera.exe

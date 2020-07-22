@@ -1,45 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\31401\Desktop\code_shiny\Daheng_dualcalib\CameraController.cpp">
+    <ClCompile Include="C:\Users\Administrator\31401\Desktop\code_shiny\Daheng_dualcalib\CameraController.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\31401\Desktop\code_shiny\Daheng_dualcalib\CameraControllerSingle.cpp">
+    <ClCompile Include="C:\Users\Administrator\31401\Desktop\code_shiny\Daheng_dualcalib\CameraControllerSingle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\31401\Desktop\code_shiny\Daheng_dualcalib\CameraDevice.cpp">
+    <ClCompile Include="C:\Users\Administrator\31401\Desktop\code_shiny\Daheng_dualcalib\CameraDevice.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\31401\Desktop\code_shiny\Daheng_dualcalib\samples\main.cpp">
+    <ClCompile Include="C:\Users\Administrator\31401\Desktop\code_shiny\Daheng_dualcalib\samples\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\31401\Desktop\code_shiny\Daheng_dualcalib\samples\KJCalibration.cpp">
+    <ClCompile Include="C:\Users\Administrator\31401\Desktop\code_shiny\Daheng_dualcalib\samples\KJCalibration.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\31401\Desktop\code_shiny\Daheng_dualcalib\samples\KJCalibration.h">
+    <ClInclude Include="C:\Users\Administrator\31401\Desktop\code_shiny\Daheng_dualcalib\samples\KJCalibration.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\31401\Desktop\code_shiny\Daheng_dualcalib\CameraController.h">
+    <ClInclude Include="C:\Users\Administrator\31401\Desktop\code_shiny\Daheng_dualcalib\CameraController.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\31401\Desktop\code_shiny\Daheng_dualcalib\CameraControllerSingle.h">
+    <ClInclude Include="C:\Users\Administrator\31401\Desktop\code_shiny\Daheng_dualcalib\CameraControllerSingle.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\31401\Desktop\code_shiny\Daheng_dualcalib\CameraDevice.h">
+    <ClInclude Include="C:\Users\Administrator\31401\Desktop\code_shiny\Daheng_dualcalib\CameraDevice.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\31401\Desktop\code_shiny\Daheng_dualcalib\samples\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\Administrator\31401\Desktop\code_shiny\Daheng_dualcalib\samples\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{C09DC373-1B47-31F8-B1F6-7BD183DB78BA}</UniqueIdentifier>
+      <UniqueIdentifier>{02066207-C1A7-3DBA-B2DE-BB0A14140024}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{265BDDA1-FA63-3E33-BE58-424128291F37}</UniqueIdentifier>
+      <UniqueIdentifier>{BA2CE703-38B1-3045-99AF-604780BBFEBA}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

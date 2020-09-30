@@ -77,7 +77,7 @@ int main_calib()
     string calib_message;
     Mat greenAreaLeft, greenAreaRight;
 
-    KJCalibration KJcalib(11, 8, 20); // calib checkboard - corner number and size
+    KJCalibration KJcalib(11, 8, 5); // calib checkboard - corner number and size
 
     KJcalib.setPositionNums(POS_NUM_all); // calib image number
 
@@ -302,14 +302,14 @@ int main_calib()
 //int main()  int main_save
 int main()
 {
-    int Num_image = 50;
+    int Num_image = 500;
     if (SE_STATUS_SUCCESS != camera.init())
     {
         system("pause");
         return -1;
     }
     camera.setExposureTime2D(3000);
-    camera.setExposureTime3D(36500);//3->40000  4-> 80000  (6 ->1 ms/pulse-> 25000 inside)
+    camera.setExposureTime3D(25000);//3->40000  4-> 80000  (6 ->1 ms/pulse-> 25000 inside)
 
     camera.registerCallBackProcess(callback_single);
     camera.setPatternsNum(Num_image);
@@ -335,8 +335,8 @@ int main()
     camera.processCaptureImages(leftImages, rightImages);
     cout << "success1" << endl;
 
-    string left_path = "G:\\Phd_Research\\2020\\20200722\\test1\\left\\";
-    string right_path = "G:\\Phd_Research\\2020\\20200722\\test1\\right\\";
+    string left_path = "G:\\Phd_Research\\2020\\20200925\\ton\\left\\";
+    string right_path = "G:\\Phd_Research\\2020\\20200925\\ton\\right\\";
 
     for (int i = 0; i < Num_image ; i++)
     {
